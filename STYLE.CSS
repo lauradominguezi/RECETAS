@@ -1,0 +1,29 @@
+body {
+    font-family: 'lato';
+    margin: 10px;/* Agrega espacio alrededor del contenido.*/
+    padding: 2; /* Agrega espacio al interior del contenido.*/
+    background-color:beige;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 10px;
+    padding: 50px;}
+a {
+    text-decoration: none;
+    color: #d32f2f; /* Color del enlace */
+    font-weight: bold;
+    font-weight: bold; /*Hace los enlaces más visibles con negrita.*/
+}
+
+a:hover {
+    color: #9a0007; /* Cambia el color al pasar el mouse */
+}
+/* Pie de página */
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #c62828;
+    color: white;
+    font-size: 14px;
+}
